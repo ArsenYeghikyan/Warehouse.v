@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\WareHouse\bin\Debug\net8.0\WareHouse.exe
+C:\Users\user\source\repos\WareHouse\bin\Debug\net8.0\WareHouse.deps.json
+C:\Users\user\source\repos\WareHouse\bin\Debug\net8.0\WareHouse.runtimeconfig.json
+C:\Users\user\source\repos\WareHouse\bin\Debug\net8.0\WareHouse.dll
+C:\Users\user\source\repos\WareHouse\bin\Debug\net8.0\WareHouse.pdb
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\WareHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\WareHouse.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\WareHouse.AssemblyInfo.cs
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\WareHouse.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\WareHouse.dll
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\refint\WareHouse.dll
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\WareHouse.pdb
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\WareHouse.genruntimeconfig.cache
+C:\Users\user\source\repos\WareHouse\obj\Debug\net8.0\ref\WareHouse.dll
